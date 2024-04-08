@@ -1,0 +1,384 @@
+#EXTM3U
+#EXTINF:-1 group-title="VARIEDADES",Cazafantasmas
+http://cineplay.vip:8080/movie/ang03/d4gHCwACQs/293332.mp4
+#EXTINF:-1 group-title="VARIEDADES",La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Pluto TV Series Latinas
+https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Como Dice el Dicho
+https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Risas de Oro
+https://linear-313.frequency.stream/mt/studio/313/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES",ViX Jajaja
+https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Distrito Comedia
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Az Clic
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Az Corazón
+https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Az Cinema
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Las Estrellas
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
+
+EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Las estrellas Latinoamerica
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Imagen TV HD
+https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Multimedios
+https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Seis Saltillo
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Azteca 7
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="VARIEDADES",A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 group-title="VARIEDADES",MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 group-title="VARIEDADES",CANAL 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES",CANAL 22.2 MX Nuestro Cine
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Radio y Television de Veracruz (RTV)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Telever
+https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+#EXTINF:-1 group-title="VARIEDADES",NNVeracruz
+https://s.emisoras.tv:8081/nnveracruz/index.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Meganoticias
+https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES",TV Mexiquense
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Mariavision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 group-title="NOTICIAS",ADN 40
+https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Milenio Television
+https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
+#EXTINF:-1 group-title="NOTICIAS",TeleFormula
+https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
+#EXTINF:-1 group-title="NOTICIAS",El Financiero - Bloomberg TV
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",EuroNews en español
+https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
+#EXTINF:-1 group-title="NOTICIAS",France 24 Español SD
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="NOTICIAS",Mexiquense Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
+#EXTINF:-1 group-title="NOTICIAS",CNN en Español
+https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="US Español",Nuestra Vision
+https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="US Español",Telemundo
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 group-title="US Español",Telemundo
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
+#EXTINF:-1 group-title="US Español",Universo
+http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
+#EXTINF:-1 group-title="US Español",Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="US Español",Univision Latino America
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="US Español",Univision Latino
+http://supersonictv.live:8080/Eddie8523/Whitehead83/10584
+#EXTINF:-1 group-title="US Español",Teleonce Univision PR
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+#EXTINF:-1 group-title="US Español",ESTRELLA TV
+https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
+#EXTINF:-1 group-title="Sports",Azteca Deportes Network
+https://r.mjh.nz/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
+#EXTINF:-1 group-title="Sports",Claro Sports México
+https://r.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
+#EXTINF:-1 group-title="Sports",Claro Sports 2
+http://45.5.117.182:8000/play/a0e5/index.m3u8
+#EXTINF:-1 group-title="Sports",Fox Deportes
+http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
+#EXTINF:-1 group-title="Sports",
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sport Latinoamerica
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Fox sport 2 Latinoamerica
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Fox sport 3 Latinoamerica
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Espn Deportes
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
+#EXTINF:-1 group-title="Sports",Tudn MX
+https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Afizzionados
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Zona Tudn
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 group-title="Sports",ITV Deportes
+https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
+#EXTINF:-1 group-title="Sports",AyM sports
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
+#EXTINF:-1 group-title="Sports",Canela Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
+#EXTINF:-1 group-title="Sports",beIN Sport Xtra en Español
+https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
+#EXTINF:-1 group-title="Sports",Sky Sports La Liga
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="Sports",Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8?imafw_description_url=https%3A%2F%2Fwww.pluto.tv&imafw_csid=streaming_plutotv_unknown_desktop_web_live_63a0e33a45264d000850ed7e&imafw__fw_h_referer=www.pluto.tv&imafw__fw_did=other%3A89e47442-f50b-11ee-956d-77260f3ef268&imafw__fw_is_lat=0&imafw__fw_vcid2=89e47442-f50b-11ee-956d-77260f3ef268&imafw__fw_app_bundle=tv.pluto.web&imafw__fw_nielsen_app_id=P0C0C37AD-20C4-4EF7-AF25-BEBCB16DF85E
+#EXTINF:-1 group-title="Sports",Wapa Deportes
+https://live.field59.com/wapa/wapa2/.m3u8
+#EXTINF:-1 group-title="Sports",Teledeportes
+https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
+#EXTINF:-1 group-title="Sports",Dazn Internacional Futbol
+https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
+#EXTINF:-1 group-title="Sports",Latin America Sport
+http://138.59.177.34:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",AMC en Español
+https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canela TV
+https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 4 SV
+https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 6 SV
+https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 12 SV
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Megavision 19 SV
+https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TCS+ SV
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ATV PE
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ATV Sur PE
+http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Unitel BO
+http://181.78.78.105:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Telecadena 7 y 4
+http://200.52.148.194:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 3 Super canal GT
+http://138.59.177.34:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TeleSiete GT
+http://138.59.177.34:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Teleonce GT
+http://138.59.177.34:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Trecevision GT
+http://138.59.177.34:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 4 CR
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 6 CR
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 11 CR
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Telesur CR
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Telefuturo PA
+http://177.234.230.226:8010/play/a033/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 11 NI
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Ecuavisa EC
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Telemicro RD
+http://51.81.93.239:8084/hls/tmicro.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",El trece AR
+https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Planeta TV Kids
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",WTV NI
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",CocoTV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg",FM TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 group-title="De Paga",Star Channels Latinoamerica
+http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+#EXTINF:-1 group-title="De Paga",Star Channels Latinoamerica
+http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
+#EXTINF:-1 group-title="De Paga",TNT Latinoamerica
+http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
+#EXTINF:-1 group-title="De Paga",SYFY
+http://287868455641656458.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656458.ts
+#EXTINF:-1 group-title="De Paga",Warner
+http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
+#EXTINF:-1 group-title="De Paga",Universal
+http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
+#EXTINF:-1 group-title="De Paga",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="De Paga",HBO
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+#EXTINF:-1 group-title="De Paga",HBO 2
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Boing
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+#EXTINF:-1 group-title="Kids",Clan
+https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
+#EXTINF:-1 group-title="Kids",Cartoon Network
+http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Nickelodeon
+http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Nickelodeon Pluto TV
+https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
+#EXTINF:-1 group-title="Kids",Nickelodeon en español
+https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
+#EXTINF:-1 group-title="Kids",Tooncast
+http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Pluto TV toons Clasico
+https://r.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
+#EXTINF:-1 group-title="Kids",Nickelodeon Clasico
+https://r.mjh.nz/PlutoTV/5f12151794c1800007a8ae63-alt.m3u8
+#EXTINF:-1 group-title="Kids",Pluto TV Retro Cartoons
+https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
+#EXTINF:-1 group-title="Kids",Los Tres Chiflados
+https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
+#EXTINF:-1 group-title="Movies",Free TV Live
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b28418f.m3u8
+#EXTINF:-1 group-title="Movies",Free TV
+https://freetv.stream.olympusatmedia.com/index.m3u8?url=https%3A%2F%2Fwww.freetv.com%2Fpeliculas%2Ffreetv-8-2%2F&genre=Entretenimiento&ic=&us_privacy=&coppa=0&user_id=&ip=201.148.42.146&ipv6=&c_duration=3600&c_producer=freetv8.2&c_lang=es&ua=Mozilla%2F5.0+%28Linux%3B+Android+11%3B+SM-A022M+Build%2FRP1A.200720.012%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F108.0.5359.128+Mobile+Safari%2F537.36&hls_marker=1&content_channel=FreeTV+8.2&content_title=&content_genre=&gdpr=0&player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
+#EXTINF:-1 group-title="Movies",Free TV Accion
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 group-title="Movies",Free TV Estelar
+https://i.mjh.nz/SamsungTVPlus/ESBA3300039ZX.m3u8
+#EXTINF:-1 group-title="Movies",Free TV Sureño
+https://amg01024-olympusat-cinesurenope-lgpe-brjfx.amagi.tv/playlist/amg01024-olympusat-cinesurenope-lgpe/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Free TV Horror
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfyco-lgco/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Free TV Familia
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntosco-lgco/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Cine Premiere
+https://r.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
+#EXTINF:-1 group-title="Movies",Canela Cinema
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgmx/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Accion Rakuten
+https://i.mjh.nz/SamsungTVPlus/ESAJ45000181E.m3u8
+#EXTINF:-1 group-title="Movies",Runtime Accion
+https://i.mjh.nz/SamsungTVPlus/ESBD80000288.m3u8
+#EXTINF:-1 group-title="Movies",Familiares-Rakuten
+https://i.mjh.nz/SamsungTVPlus/ESBA3300017FA.m3u8
+#EXTINF:-1 group-title="Movies",Pluto TV Cine Acción
+https://r.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
+#EXTINF:-1 group-title="Movies",Pluto TV Estrellas En Accion
+https://r.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
+#EXTINF:-1 group-title="Movies",Pluto TV Cine Estelar
+https://r.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
+#EXTINF:-1 group-title="Movies",Pluto TV Sci-Fi
+https://r.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
+#EXTINF:-1 group-title="Movies",Pluto TV Cine Crimen
+https://r.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
+#EXTINF:-1 ,Pluto TV Cine Terror
+https://r.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
+#EXTINF:-1 group-title="Movies",Grjngo-Peliculas del Oeste
+https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
+#EXTINF:-1 group-title="Series",Pluto TV Series
+https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
+#EXTINF:-1 group-title="Series",Runtime
+https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
+#EXTINF:-1 group-title="Series",NCIS
+https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
+#EXTINF:-1 group-title="Series",Pluto TV Series Retro
+https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
+#EXTINF:-1 group-title="Series",Chilevisual Retro
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Series",Chilevisual Kids
+https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Series",Chilevisual Classic
+https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Series",Channels Classic
+https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Series",Teleclasica
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+#EXTINF:-1 group-title="Series",ACS Network
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
+#EXTINF:-1 group-title="Series",Dreiko TV
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/vZnOTq8.png",Telesistema
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",Historias de Ultratumba
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=c2849db8-1412-11eb-bde1-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 group-title="DOCUMENTALES",Pluto TV Misterios
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
+#EXTINF:-1 group-title="DOCUMENTALES",Pluto TV Historia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9bbe753c-ef32-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 group-title="DOCUMENTALES",Pluto TV Investiga
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e271eb73-ef8c-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sabermas_logo_light.png",Saber Mas
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB&channelId=6018913ea15130002b284195
+#EXTINF:-1 group-title="DOCUMENTALES",Pluto TV Ciencia
+https://stitcher.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
+#EXTINF:-1 group-title="DOCUMENTALES",Pluto TV Animales
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5291&deviceLon=-97.4497&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=25518983-f45d-11ea-a685-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 group-title="DOCUMENTALES",Pluto TV Naturaleza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3563&deviceLon=-97.6896&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f83fdf19-0d08-11eb-a6e3-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Retro Music",Now 80s
+https://r.mjh.nz/PlutoTV/6490254fd2c47c00083a5743-alt.m3u8
+#EXTINF:-1 group-title="Retro Music",XITE 80s Flashback
+https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
+#EXTINF:-1 group-title="Retro Music",Vevo '80s
+https://r.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
+#EXTINF:-1 group-title="Retro Music",Vevo 90s
+https://r.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
+#EXTINF:-1 group-title="Retro Music",Now Rock
+https://r.mjh.nz/PlutoTV/6568a78d635c3c0008765f41-alt.m3u8
+#EXTINF:-1 group-title="Retro Music",VH1 Rock!
+https://i.mjh.nz/PlutoTV/636a4173e34fd50007534542-alt.m3u8
+#EXTINF:-1 group-title="Retro Music",XITE Rock on
+https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
+#EXTINF:-1 group-title="Retro Music",MTV Rocks
+https://r.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
+#EXTINF:-1 group-title="Retro Music",Vevo Retro Rock
+https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
+#EXTINF:-1 group-title="Retro Music",Yo! MTV Raps Classic
+https://r.mjh.nz/PlutoTV/64db35b44c5ed80008f6a3ed-alt.m3u8
+#EXTINF:-1 group-title="Retro Music",Vevo True School Hip Hop
+https://r.mjh.nz/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
+#EXTINF:-1 group-title="Retro Music",VH1 Classic
+https://r.mjh.nz/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
+#EXTINF:-1 group-title="MUSIC",Nick Music
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Exa TV
+http://138.59.177.34:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="MUSIC",Mix Music Channel
+https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Telehit Musica
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Telehit
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Bandamax
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",MTV Party Musica
+https://i.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
+#EXTINF:-1 group-title="MUSIC",MTV Love Music
+https://i.mjh.nz/PlutoTV/638f2d9aa530b200072ec8ef-alt.m3u8
+#EXTINF:-1 group-title="MUSIC",XITE Hits
+https://i.mjh.nz/SamsungTVPlus/CABD1200038NZ.m3u8
+#EXTINF:-1 group-title="MUSIC",XITE Nuevo Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
+#EXTINF:-1 group-title="MUSIC",Free TV Hits
+https://i.mjh.nz/SamsungTVPlus/ESBA330004064.m3u8
+#EXTINF:-1 group-title="MUSIC",Vevo Pop
+https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
+#EXTINF:-1 group-title="MUSIC",Vevo Latino
+https://i.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
+#EXTINF:-1 group-title="MUSICA REGIONAL",RetroChannels
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 group-title="RADIO",Classic Rock
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=xAoXwfNRpzqfb4QF8JUB&custom_7=61aaa0cc784a2161d3caf7ff
+#EXTINF:-1 group-title="RADIO",Radio Retro
+https://s01.digitalserver.org:7637/;
+#EXTINF:-1 group-title="RADIO",Exa FM Poza Rica
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRIC_SC?dist=onlineradiobox
+#EXTINF:-1 group-title="RADIO",OyeFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC_SC?dist=onlineradiobox
+#EXTINF:-1 group-title="RADIO",YA FM
+https://yafm.centrocibernetico.com/
+#EXTINF:-1 group-title="RADIO",Los 40 Principales Veracruz
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VERAAC.aac
+#EXTINF:-1 group-title="RADIO",Pa la Banda Naranjos
+https://iannes.mi-radio.stream:5003/stream
+#EXTINF:-1 group-title="RADIO",RADIO USA
+https://n06.radiojar.com/6pz06e8nv4zuv
