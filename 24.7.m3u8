@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,24/7 | Cine Accion
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2544.ts
 #EXTINF:-1 group-title="24/7" tvg-logo="https://www.pikpng.com/pngl/b/339-3392974_chavo-del-8-png-chavo-del-8-meme.png",24/7 EL CHAVO DEL 8  ⭐️
 http://home-playtv.com:8080/SiaFlores21/BSMRA/216295
 #EXTINF:-1 group-title="24/7" tvg-logo="https://dl.dropboxusercontent.com/s/h4xfofursz2py5j/futurama.png",24/7 | Futurama ⭐️
